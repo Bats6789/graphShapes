@@ -1,0 +1,11 @@
+Todo
+library files
+- make draw shapes functions
+- make display text funtions
+main
+- make drop down menu for shape
+- make drop down menu for view
+- draw graph
+- output display to a file
+- integrate file manager
+- handle mouse inputs
